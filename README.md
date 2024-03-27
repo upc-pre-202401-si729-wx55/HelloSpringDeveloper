@@ -1,4 +1,8 @@
-# Getting Started
+# HelloSpringDeveloper
+
+## Summary
+Sample Application illustrating Spring Boot Initializer capabilities for basic REST API generation and configuration.
+
 
 ### Reference Documentation
 
