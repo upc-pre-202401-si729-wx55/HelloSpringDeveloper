@@ -14,4 +14,9 @@ public class WelcomeController {
         return WelcomeBuilder.build(name);
     }
 
+    @GetMapping
+    public String welcomeAnonymous() {
+        return WelcomeBuilder.build(null);
+    }
+
 }
